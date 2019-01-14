@@ -1,0 +1,2 @@
+Run in terminal:
+mono nuget.exe pack Epam.X.CryptoStorage.nuspec
